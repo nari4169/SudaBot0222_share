@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">수다 떨기</string>
+    <string name="clearData">지워진 자료는 복구 되지 않습니다. 입력한 데이터를 지워도 될까요?</string>
+    <string name="OK">OK</string>
+    <string name="CANCEL">CANCEL</string>
+    <string name="finishApps">정말로 앱을 종료 할까요?</string>
+    <string name="msgAppUpdateOK">이 앱의 새로운 기능 설치가 마무리 되었습니다. 다시 앱을 실행 하세요.</string>
+</resources>
