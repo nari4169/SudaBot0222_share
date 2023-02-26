@@ -12,3 +12,10 @@ There is a quota, so if you exceed 1000 per month, you may not be able to respon
 
 It's just a lack of code implementation, but I hope it helps you see.
 
+
+local.properties 파일에 아래 4줄이 추가 되어야 합니다.
+
+KAKAO_API_KEY=카카오 개발자 계정에서 받은 Netive API 키
+KAKAO_REST_KEY=카카오 개발자 계정에서 받은 REST API 키
+ADMOB_APP_ID= 구글 admob 앱 ID
+ADMOB_BANNER_ID= 구글 admob banner 광고 ID
